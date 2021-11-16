@@ -3,9 +3,9 @@ import FloorPlan from './components/FloorPlan';
 
 function App() {
   return (
-    <div>
+    <>
       <FloorPlan />
-    </div>
+    </>
   );
 }
 

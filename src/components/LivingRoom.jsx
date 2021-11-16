@@ -2,7 +2,7 @@ import React from 'react';
 
 function LivingRoom(props) {
   return (
-    <div>
+    <div class="livingRoom">
       <h1>Living Room</h1>
     </div>
   );

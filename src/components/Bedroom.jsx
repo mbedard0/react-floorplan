@@ -2,7 +2,7 @@ import React from 'react';
 
 function Bedroom(props) {
   return (
-    <div>
+    <div class="bedroom" id={`bed-${props.bedNum}`}>
       <h1>Bedroom {props.bedNum}</h1>
     </div>
   );
